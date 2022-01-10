@@ -1,4 +1,4 @@
-# Intro TO Machine Learning
+# Intro To Machine Learning
 This project is my write-up of this ML Course provided by Scikit-learn: https://inria.github.io/scikit-learn-mooc/index.html
 
 It is intended as a condensed summary of the course, with worked examples of the key concepts involved. My aim is to consolidate my learning in this project so that I can refer back to it, and to add more over time (for example considering other ML libraries such as TensorFlow or PyTorch).
@@ -17,19 +17,17 @@ I have divided the project into notebooks covering different areas.
   	*	Feature Importance
   	*	Feature Selection
 3)	__Hyperparameter Tuning__
-  	*	Regularistion for Linear models
+  	
 4)	__Linear Models__
-	*	Intro
-	*	Regularisation
+	*	Regression
 	*	Modelling Non-linear features
+	*	Regularisation
 	*	Classification
 5)	__Decision Tree Models__
-	*	Intro
 	*	Regression
 	*	Classification
 	*	Hyperparameters
 6)	__Ensemble Models__
-	*	Intro
 	*	Bagging
 	*	Random Forests
 	*	Boosting
