@@ -7,28 +7,28 @@ I have divided the project into notebooks covering different areas.
 
 # Contents
 
-1)	Data Presentation / Exploration
-2)	Data PreProcessing
-*	Categorical vs Continuous
-*	Missing data + Bounds
-*	Scaling
--	Encoding
--	Combining preprocessing
--	Feature Importance
--	Feature Selection
-3)	Hyperparameter Tuning
--	Regularistion for Linear models
-4)	Linear Models
+1)	__Data Presentation / Exploration__
+2)	__Data PreProcessing__
+  *	Categorical vs Continuous
+  *	Missing data + Bounds
+  *	Scaling
+  *	Encoding
+  *	Combining preprocessing
+  *	Feature Importance
+  *	Feature Selection
+3)	__Hyperparameter Tuning__
+  *	Regularistion for Linear models
+4)	__Linear Models__
 -	Intro
 -	Regularisation
 -	Modelling Non-linear features
 -	Classification
-5)	Decision Tree Models
+5)	__Decision Tree Models__
 -	Intro
 -	Regression
 -	Classification
 -	Hyperparameters
-6)	Ensemble Models
+6)	__Ensemble Models__
 -	Intro
 -	Bagging
 -	Random Forests
@@ -36,12 +36,12 @@ I have divided the project into notebooks covering different areas.
 o	Adaptive Boosting
 o	Gradient Boosting
 -	Hyperparameters
-7)	Evaluation
--	Bias vs Variance
--	Overfitting vs Underfitting
--	Baseline Comparison
--	Cross Validation
-o	Nested
-o	Hyperparameters (check original section)
--	Classification Metrics
--	Regression Metrics
+7)	__Model Evaluation__
+  *	Bias vs Variance
+  *	Overfitting vs Underfitting
+  *	Baseline Comparison
+  *	Cross Validation
+    *	Nested
+    *	Hyperparameters
+  *	Classification Metrics
+  *	Regression Metrics
