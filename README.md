@@ -5,6 +5,8 @@ It is intended as a condensed summary of the course, with worked examples of the
 
 I have divided the project into notebooks covering different areas.
 
+_Please note that internal Notebook links will not work on the GitHub viewer._
+
 # Contents
 
 1)	__Data Presentation / Exploration__
