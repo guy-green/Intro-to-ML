@@ -37,11 +37,12 @@ _Please note that internal Notebook links will not work on the GitHub viewer._
 		*	Gradient Boosting
 	*	Hyperparameters
 7)	__Model Evaluation__
-  	*	Bias vs Variance
   	*	Overfitting vs Underfitting
+  	*	Validation and Learning Curves
+  	*	Bias vs Variance
   	*	Baseline Comparison
  	*	Cross Validation
+ 		*	Strategies
    		* 	Nested
-   		*	Hyperparameters
  	*	Classification Metrics
 	*	Regression Metrics
